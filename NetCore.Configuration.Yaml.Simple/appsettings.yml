@@ -1,0 +1,8 @@
+﻿user:
+  name: mike
+  age: 22
+  birthday: 2000-11-11
+  hobby:
+    - basketball
+    - football
+    - baseball
